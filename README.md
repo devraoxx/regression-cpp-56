@@ -1,2 +1,4 @@
-# regression-cpp-56
+# Regression Cpp 56
+
 Basic slope-intercept coefficients solver in C++.
+
